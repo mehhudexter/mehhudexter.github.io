@@ -1,12 +1,3 @@
-	/* ===================================================================
-
-	Author       	: Incognito Themes
-	Template Name	: Torneo - Multi-Purpose HTML5 Theme
-	Version      	: 1.0
-
-	* ================================================================= */
-
-
 
 	/* ===== LOADER OVERLAY ===== */
 
