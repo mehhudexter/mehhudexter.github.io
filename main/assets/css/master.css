@@ -883,7 +883,7 @@ box-shadow: 0px 0px 51px 0px rgba(0, 0, 0, 0.08), 0px 6px 18px 0px rgba(0, 0, 0,
 .title-section:after {
     border-right: 1px solid #fff;
 }
-.title-section h1{font-size: 40px;
+.title-section h1{font-size: 30px;
     color: #a5a3a3;
     font-family: 'Allura', cursive;}
 
